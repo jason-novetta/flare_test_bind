@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\jobrien\Google Drive\Flare Output"
+  Port=""
+  ViewUrl="https://drive.google.com/drive/folders/0B4TLrQpUpdpeOFhEZU1hOG1vbEE"
+  Type="file"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>
